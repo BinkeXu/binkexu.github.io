@@ -26,14 +26,14 @@ Work experience
 * Aug 2014 – Feb 2018: Noodle Canteen
   * Fast adapt the team and provide excellent customer service.
   
-Skills
+Technical Skills
 ======
-|              **    Area   **              |                         **    Tools   **                        |          **    Skill Level   **         |                              **    Relevant Experience   **                              |
-|:-----------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------:|
-|     **    Programming   language   **     |                Java,   Python, JavaScript, R, SQL               |              Basic     Basic            |                                    University   Project                                  |
-|       **    Operating   Systems   **      |                         Windows     Linux                       |          Intermediate     Basic         |                             Daily use     University   Project                           |
-|        **    Data   Management   **       |                            PostgreSQL                           |                   Basic                 |                                    University   Project                                  |
-| **    Framework,   Tools and Library   ** |     TensorFlow     Node.js,   React Native, Ionic React, Git    |     Intermediate     Basic     Basic    |     Final   Year project     University   & personal project     University   Project    |
+|                  Area                 |                               Tools                             |                Skill Level              |                                    Relevant Experience                                   |
+|:-------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------:|
+|         Programming   language        |                Java,   Python, JavaScript, R, SQL               |              Basic     Basic            |                                    University   Project                                  |
+|           Operating   Systems         |                         Windows     Linux                       |          Intermediate     Basic         |                             Daily use     University   Project                           |
+|            Data   Management          |                            PostgreSQL                           |                   Basic                 |                                    University   Project                                  |
+|     Framework,   Tools and Library    |     TensorFlow     Node.js,   React Native, Ionic React, Git    |     Intermediate     Basic     Basic    |     Final   Year project     University   & personal project     University   Project    |
 
 
 <!-- Publications
