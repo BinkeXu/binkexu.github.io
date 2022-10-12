@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering with Honours in Software engineering, Victoria University of Wellington,2018–Mid 2022           
+* Certificate in Engineering Technology, Western Institute of Technology at Taranaki, 2017 - 2017
+* Motor industry, Western Institute of Technology at Taranaki, 2016 - 2016
+* High school, Spotswood College, 2015 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2014 – Feb 2018: Noodle Canteen
+  * Fast adapt the team and provide excellent customer service.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+|                  Area                 |                               Tools                             |                Skill Level              |                                    Relevant Experience                                   |
+|:-------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------:|
+|         Programming   language        |                Java,   Python, JavaScript, R, SQL               |              Basic     Basic            |                                    University   Project                                  |
+|           Operating   Systems         |                         Windows     Linux                       |          Intermediate     Basic         |                             Daily use     University   Project                           |
+|            Data   Management          |                            PostgreSQL                           |                   Basic                 |                                    University   Project                                  |
+|     Framework,   Tools and Library    |     TensorFlow     Node.js,   React Native, Ionic React, Git    |     Intermediate     Basic     Basic    |     Final   Year project     University   & personal project     University   Project    |
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
